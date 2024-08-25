@@ -158,6 +158,6 @@ $$
 -1=\lambda^2 \\
 $$
 
-\\\(\therefore \lambda = \plusmn i\\\)
+\\\(\therefore \lambda = \pm i\\\)
 
 It is easy to verify that \\\(i\\\) and \\\(-i\\\) are eigenvalues of \\\(T\\\). Indeed, the eigenvectors corresponding to the eigenvalue \\\(i\\\) are the vectors of the form \\\((w,-w i)\\\), with \\\(w \in \mathbf{C}\\\) and \\\(w \neq 0\\\), and the eigenvectors corresponding to the eigenvalue \\\(-i\\\) are the vectors of the form \\\((w, w i)\\\), with \\\(w \in \mathbf{C}\\\) and \\\(w \neq 0\\\). (Multiplication of \\\(i^3\\\) and \\\(i\\\) for the equation \\\(\lambda(w, z) = (-z, w)\\\))
