@@ -33,7 +33,7 @@ v_3
 \end{array}\right)
 $$ 
 
-That is, \\\(\lambda\\\) implies eigenvalue of matrix \\\(A\\\), and \\\(v\\\) implies eigenvector of matrix $A$ in terms of \\\(\lambda\\\). Direction of vector \\\(v\\\) did not change, only amount of magnitude did as much as \\\(\lambda\\\) after linear transformation $A$.
+That is, \\\(\lambda\\\) implies eigenvalue of matrix \\\(A\\\), and \\\(v\\\) implies eigenvector of matrix \\\(A\\\) in terms of \\\(\lambda\\\). Direction of vector \\\(v\\\) did not change, only amount of magnitude did as much as \\\(\lambda\\\) after linear transformation \\\(A\\\).
 
 As \\\((A - \lambda I)v = 0\\\), inverse matrix of \\\(A - \lambda I\\\) cannot exists. (if exists, \\\(v\\\) becomes 0 that violates our assumption.) Therefore, 
 $$
@@ -67,7 +67,7 @@ $$
 \lambda^2 - 5 \lambda = 0 \\
 $$
 
-$\therefore \ \lambda = 0, 5$
+\\\(\therefore \ \lambda = 0, 5\\\)
 
 When \\\(\lambda = 0\\\),
 $$
